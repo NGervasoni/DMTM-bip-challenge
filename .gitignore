@@ -1,4 +1,6 @@
 .ipynb_checkpoints/
 preprocessed_train.csv
 preprocessed_test.csv
+preprocessed_train_with_avg.csv
+preprocessed_test_with_avg.csv
 validation/   
